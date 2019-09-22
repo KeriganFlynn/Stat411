@@ -1,0 +1,6 @@
+import numpy as np                  
+import pandas as pa                 
+import matplotlib.pyplot as plt      
+import seaborn as sn
+major = pa.read_csv('C:\Users\arcti\Documents\Fund_of_Data/DATA WHOLE.csv')
+major.head()
